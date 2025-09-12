@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\Ariketa 6\\Ariketa 6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74D9EE7A-BAD1-4E6B-870C-E41570C1C362}|Ariketa 6\\Ariketa 6.csproj|c:\\users\\usuario\\desktop\\intefazegarapena\\interfaze-garapena\\ariketa 6\\ariketa 6\\ariketa 6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{74D9EE7A-BAD1-4E6B-870C-E41570C1C362}|Ariketa 6\\Ariketa 6.csproj|solutionrelative:ariketa 6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74D9EE7A-BAD1-4E6B-870C-E41570C1C362}|Ariketa 6\\Ariketa 6.csproj|c:\\users\\usuario\\desktop\\intefazegarapena\\interfaze-garapena\\ariketa 6\\ariketa 6\\ariketa 6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74D9EE7A-BAD1-4E6B-870C-E41570C1C362}|Ariketa 6\\Ariketa 6.csproj|solutionrelative:ariketa 6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D9EE7A-BAD1-4E6B-870C-E41570C1C362}|Ariketa 6\\Ariketa 6.csproj|c:\\users\\usuario\\desktop\\intefazegarapena\\interfaze-garapena\\ariketa 6\\ariketa 6\\ariketa 6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74D9EE7A-BAD1-4E6B-870C-E41570C1C362}|Ariketa 6\\Ariketa 6.csproj|solutionrelative:ariketa 6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\Ariketa 6\\Ariketa 6\\Ariketa 6\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Ariketa 6\\MainWindow.xaml",
@@ -38,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\Ariketa 6\\Ariketa 6\\Ariketa 6\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Ariketa 6\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\Ariketa 6\\Ariketa 6\\Ariketa 6\\MainWindow.xaml.cs",
               "RelativeToolTip": "Ariketa 6\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAxa6AWwDUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T15:30:41.762Z",
               "EditorCaption": ""
