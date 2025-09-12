@@ -1,0 +1,21 @@
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\bin\Debug\net8.0-windows\Ariketa 6.exe
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\bin\Debug\net8.0-windows\Ariketa 6.deps.json
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\bin\Debug\net8.0-windows\Ariketa 6.runtimeconfig.json
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\bin\Debug\net8.0-windows\Ariketa 6.dll
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\bin\Debug\net8.0-windows\Ariketa 6.pdb
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6_MarkupCompile.cache
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6_MarkupCompile.lref
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.g.resources
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.sourcelink.json
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.dll
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\refint\Ariketa 6.dll
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.pdb
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\Ariketa 6.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 6\Ariketa 6\Ariketa 6\obj\Debug\net8.0-windows\ref\Ariketa 6.dll
