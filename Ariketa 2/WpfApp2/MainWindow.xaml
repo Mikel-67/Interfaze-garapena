@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Frases" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TextInputa" Width="300" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0" Height="30"/>
+        <Button x:Name="Botoi_1"  Content="Frase 1" HorizontalAlignment="Left" Margin="151,98,0,0" VerticalAlignment="Top" Height="22" Width="49" Click="Frase"/>
+        <Button x:Name="Botoi_2"  Content="Frase 2" HorizontalAlignment="Center" Margin="0,98,0,0" VerticalAlignment="Top" Height="22" Width="48" IsEnabled="False" Click="Frase"/>
+        <Button x:Name="Botoi_3"  Content="Frase 3" HorizontalAlignment="Left" Margin="596,98,0,0" VerticalAlignment="Top" Height="22" Width="49" IsEnabled="False" Click="Frase"/>
+        <Button x:Name="Botoi_4"  Content="Frase 4" HorizontalAlignment="Left" Margin="151,195,0,0" VerticalAlignment="Top" Height="22" Width="49" IsEnabled="False" Click="Frase"/>
+        <Button x:Name="Botoi_5"  Content="Frase 5" HorizontalAlignment="Center" Margin="0,195,0,0" VerticalAlignment="Top" Height="22" Width="48" IsEnabled="False" Click="Frase"/>
+        <Button x:Name="Unir"  Content="Unir" HorizontalAlignment="Left" Margin="596,195,0,0" VerticalAlignment="Top" Height="22" Width="49" IsEnabled="False" Click="Batu"/>
+        <Button Content="Limpiar" HorizontalAlignment="Center" Height="32" Margin="0,270,0,0" VerticalAlignment="Top" Width="268" Click="clean"/>
+        <Button Content="Salir" HorizontalAlignment="Center" Height="32" Margin="0,330,0,0" VerticalAlignment="Top" Width="268" Click="exit"/>
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Ariketa_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ariketa_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Comic sans" HorizontalAlignment="Left" Margin="203,146,0,0" VerticalAlignment="Top" Click="comicSans"/>
+        <Button Content="Negrita" HorizontalAlignment="Left" Margin="307,146,0,0" VerticalAlignment="Top" Click="negrita"/>
+        <Button Content="Tachado" HorizontalAlignment="Left" Margin="442,146,0,0" VerticalAlignment="Top" Click="tachado"/>
+        <Button Content="+Tamano" HorizontalAlignment="Left" Margin="556,146,0,0" VerticalAlignment="Top" Click="tamainaHanditu"/>
+        <Button Content="Courier" HorizontalAlignment="Left" Margin="203,0,0,0" VerticalAlignment="Center" Click="courier"/>
+        <Button Content="Subrayado" HorizontalAlignment="Left" Margin="442,0,0,0" VerticalAlignment="Center" Click="subrayado"/>
+        <Button Content="-Tamano" HorizontalAlignment="Left" Margin="556,0,0,0" VerticalAlignment="Center" Click="tamainaTxikitu"/>
+        <Button Content="Cursiva" HorizontalAlignment="Left" Margin="307,0,0,0" VerticalAlignment="Center" Click="cursiva"/>
+        <TextBox x:Name="Box" HorizontalAlignment="Left" Margin="203,261,0,0" TextWrapping="Wrap" Text="Este será el texto seleccionado" VerticalAlignment="Top" Width="124" Height="59"/>
+        <Button Content="Seleccionar" HorizontalAlignment="Left" Margin="400,281,0,0" VerticalAlignment="Top" Click="seleccionarTexto"/>
+        <Button Content="Salir" HorizontalAlignment="Left" Margin="401,336,0,0" VerticalAlignment="Top" Width="63" Click="exitApp"/>
+        <Label x:Name="Info" Content="" HorizontalAlignment="Left" Margin="390,373,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="hitza" HorizontalAlignment="Center" Margin="0,66,0,0" TextWrapping="Wrap" Text="Texto de prueba" VerticalAlignment="Top" Height="41" Width="234" TextAlignment="Center" FontSize="20"/>
+
+    </Grid>
+</Window>
