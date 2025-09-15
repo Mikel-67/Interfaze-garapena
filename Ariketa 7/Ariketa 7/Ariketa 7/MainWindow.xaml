@@ -18,7 +18,7 @@
         <Button x:Name="Bi" Content="2" HorizontalAlignment="Left" Margin="170,296,0,0" VerticalAlignment="Top" Height="48" Width="46" FontSize="36" Click="sartuBat"/>
         <Button x:Name="Hiru" Content="3" HorizontalAlignment="Left" Margin="263,296,0,0" VerticalAlignment="Top" Height="48" Width="46" FontSize="36" Click="sartuBat"/>
         <Button x:Name="Zero" Content="0" HorizontalAlignment="Left" Margin="76,376,0,0" VerticalAlignment="Top" Height="48" Width="140" FontSize="36" Click="sartuBat"/>
-        <Button x:Name="Coma" Content="." HorizontalAlignment="Left" Margin="263,376,0,0" VerticalAlignment="Top" Height="48" Width="46" FontSize="36" Click="sartuBat"/>
+        <Button x:Name="Coma" Content="," HorizontalAlignment="Left" Margin="263,376,0,0" VerticalAlignment="Top" Height="48" Width="46" FontSize="36" Click="sartuBat"/>
         <Button x:Name="C" Content="C" HorizontalAlignment="Left" Margin="501,145,0,0" VerticalAlignment="Top" Height="48" Width="46" FontSize="36" Click="ezabatuBat"/>
         <Button x:Name="Ce" Content="CE" HorizontalAlignment="Left" Margin="602,145,0,0" VerticalAlignment="Top" Height="48" Width="46" FontSize="36" Click="garbitu"/>
         <Button x:Name="Zati" Content="/" HorizontalAlignment="Left" Margin="501,217,0,0" VerticalAlignment="Top" Height="48" Width="46" FontSize="36" Click="zatiketa"/>

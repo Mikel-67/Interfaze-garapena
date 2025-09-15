@@ -19,3 +19,24 @@ C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 7\Ariketa 7
 C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.pdb
 C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\ref\Ariketa 7.dll
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\bin\Debug\net8.0-windows\Ariketa 7.exe
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\bin\Debug\net8.0-windows\Ariketa 7.deps.json
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\bin\Debug\net8.0-windows\Ariketa 7.runtimeconfig.json
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\bin\Debug\net8.0-windows\Ariketa 7.dll
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\bin\Debug\net8.0-windows\Ariketa 7.pdb
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7_MarkupCompile.cache
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7_MarkupCompile.lref
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.g.resources
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.AssemblyInfoInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.AssemblyInfo.cs
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.csproj.CoreCompileInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.sourcelink.json
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.dll
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\refint\Ariketa 7.dll
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.pdb
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\Ariketa 7.genruntimeconfig.cache
+D:\Interfaze garapena\Interfaze-garapena\Ariketa 7\Ariketa 7\Ariketa 7\obj\Debug\net8.0-windows\ref\Ariketa 7.dll
