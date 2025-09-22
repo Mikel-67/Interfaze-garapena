@@ -1,0 +1,21 @@
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\bin\Debug\net8.0-windows\Ariketa 8.exe
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\bin\Debug\net8.0-windows\Ariketa 8.deps.json
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\bin\Debug\net8.0-windows\Ariketa 8.runtimeconfig.json
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\bin\Debug\net8.0-windows\Ariketa 8.dll
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\bin\Debug\net8.0-windows\Ariketa 8.pdb
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8_MarkupCompile.cache
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8_MarkupCompile.lref
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.g.resources
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.AssemblyInfoInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.AssemblyInfo.cs
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.csproj.CoreCompileInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.sourcelink.json
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.dll
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\refint\Ariketa 8.dll
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.pdb
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\Ariketa 8.genruntimeconfig.cache
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 8\Ariketa 8\obj\Debug\net8.0-windows\ref\Ariketa 8.dll
