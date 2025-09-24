@@ -1,0 +1,21 @@
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\bin\Debug\net8.0-windows\Ariketa 9.exe
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\bin\Debug\net8.0-windows\Ariketa 9.deps.json
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\bin\Debug\net8.0-windows\Ariketa 9.runtimeconfig.json
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\bin\Debug\net8.0-windows\Ariketa 9.dll
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\bin\Debug\net8.0-windows\Ariketa 9.pdb
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9_MarkupCompile.cache
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9_MarkupCompile.lref
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.g.resources
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.AssemblyInfoInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.AssemblyInfo.cs
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.csproj.CoreCompileInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.sourcelink.json
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.dll
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\refint\Ariketa 9.dll
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.pdb
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\Ariketa 9.genruntimeconfig.cache
+D:\Interfaze garapena\Interfaze-garapena\2.- ARIKETA\Ariketa 9\Ariketa 9\Ariketa 9\obj\Debug\net8.0-windows\ref\Ariketa 9.dll
