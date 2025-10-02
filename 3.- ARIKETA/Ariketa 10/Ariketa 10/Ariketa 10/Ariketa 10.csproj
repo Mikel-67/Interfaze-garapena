@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Ariketa_10</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img2.jpeg" />
+    <None Remove="pintura1.jpeg" />
+    <None Remove="pintura3.jpeg" />
+    <None Remove="pintura4.jpeg" />
+    <None Remove="pintura5.jpeg" />
+    <None Remove="pintura6.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img2.jpeg" />
+    <Resource Include="pintura1.jpeg" />
+    <Resource Include="pintura3.jpeg" />
+    <Resource Include="pintura4.jpeg" />
+    <Resource Include="pintura5.jpeg" />
+    <Resource Include="pintura6.jpeg" />
+  </ItemGroup>
+
+</Project>
