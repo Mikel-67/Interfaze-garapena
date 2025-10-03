@@ -1,0 +1,23 @@
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\bin\Debug\net8.0-windows\Ariketa 11.exe
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\bin\Debug\net8.0-windows\Ariketa 11.deps.json
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\bin\Debug\net8.0-windows\Ariketa 11.runtimeconfig.json
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\bin\Debug\net8.0-windows\Ariketa 11.dll
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\bin\Debug\net8.0-windows\Ariketa 11.pdb
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\VisualizarWindow.g.cs
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11_MarkupCompile.cache
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11_MarkupCompile.lref
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\VisualizarWindow.baml
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.g.resources
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.AssemblyInfoInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.AssemblyInfo.cs
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.csproj.CoreCompileInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.sourcelink.json
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.dll
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\refint\Ariketa 11.dll
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.pdb
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\Ariketa 11.genruntimeconfig.cache
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 11\Ariketa 11\Ariketa 11\obj\Debug\net8.0-windows\ref\Ariketa 11.dll

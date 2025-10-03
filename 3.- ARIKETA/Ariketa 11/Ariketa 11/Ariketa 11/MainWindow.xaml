@@ -1,0 +1,23 @@
+﻿<Window x:Class="Ariketa_11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ariketa_11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="266,85,0,0" VerticalAlignment="Top"/>
+        <Label Content="1. Apellido:" HorizontalAlignment="Left" Margin="266,136,0,0" VerticalAlignment="Top"/>
+        <Label Content="2. Apellido:" HorizontalAlignment="Left" Margin="266,191,0,0" VerticalAlignment="Top"/>
+        <Label Content="DNI:" HorizontalAlignment="Left" Margin="266,257,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="izenaTextBox" HorizontalAlignment="Left" Margin="420,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="abizena1TextBox" HorizontalAlignment="Left" Margin="420,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="abizena2TextBox" HorizontalAlignment="Left" Margin="420,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="dniTextBox" HorizontalAlignment="Left" Margin="420,261,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="aceptarButton" Content="Aceptar" HorizontalAlignment="Left" Margin="200,343,0,0" VerticalAlignment="Top" Height="37" Width="60" Click="aceptarButton_Click"/>
+        <Button x:Name="cargarButton" Content="Cargar y Visualizar" HorizontalAlignment="Center" Margin="0,343,0,0" VerticalAlignment="Top" Height="37" Width="110" Click="cargarButton_Click"/>
+        <Button x:Name="salirButton" Content="Salir" HorizontalAlignment="Left" Margin="537,343,0,0" VerticalAlignment="Top" Height="37" Width="60" Click="salirButton_Click"/>
+
+    </Grid>
+</Window>

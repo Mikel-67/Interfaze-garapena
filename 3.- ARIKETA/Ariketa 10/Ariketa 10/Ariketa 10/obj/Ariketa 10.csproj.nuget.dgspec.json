@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\Ariketa 10.csproj": {}
+    "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\Ariketa 10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\Ariketa 10.csproj": {
+    "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\Ariketa 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\Ariketa 10.csproj",
+        "projectUniqueName": "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\Ariketa 10.csproj",
         "projectName": "Ariketa 10",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\Ariketa 10.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\IntefazeGarapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\obj\\",
+        "projectPath": "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\Ariketa 10.csproj",
+        "packagesPath": "C:\\Users\\ik012982i18\\.nuget\\packages\\",
+        "outputPath": "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 10\\Ariketa 10\\Ariketa 10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ik012982i18\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

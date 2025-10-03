@@ -19,3 +19,24 @@ C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa
 C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.pdb
 C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\ref\Ariketa 10.dll
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\bin\Debug\net8.0-windows\Ariketa 10.exe
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\bin\Debug\net8.0-windows\Ariketa 10.deps.json
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\bin\Debug\net8.0-windows\Ariketa 10.runtimeconfig.json
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\bin\Debug\net8.0-windows\Ariketa 10.dll
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\bin\Debug\net8.0-windows\Ariketa 10.pdb
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\App.g.cs
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10_MarkupCompile.cache
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10_MarkupCompile.lref
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.g.resources
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.AssemblyInfoInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.AssemblyInfo.cs
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.csproj.CoreCompileInputs.cache
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.sourcelink.json
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.dll
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\refint\Ariketa 10.dll
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.pdb
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\Ariketa 10.genruntimeconfig.cache
+D:\Interfaze garapena\Interfaze-garapena\3.- ARIKETA\Ariketa 10\Ariketa 10\Ariketa 10\obj\Debug\net8.0-windows\ref\Ariketa 10.dll
