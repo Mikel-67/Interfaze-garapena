@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 12\\Ariketa 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FBB58-2735-475D-8492-228077016C3C}|Ariketa 12\\Ariketa 12.csproj|d:\\interfaze garapena\\interfaze-garapena\\3.- ariketa\\ariketa 12\\ariketa 12\\ariketa 12\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D41FBB58-2735-475D-8492-228077016C3C}|Ariketa 12\\Ariketa 12.csproj|solutionrelative:ariketa 12\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41FBB58-2735-475D-8492-228077016C3C}|Ariketa 12\\Ariketa 12.csproj|d:\\interfaze garapena\\interfaze-garapena\\3.- ariketa\\ariketa 12\\ariketa 12\\ariketa 12\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41FBB58-2735-475D-8492-228077016C3C}|Ariketa 12\\Ariketa 12.csproj|solutionrelative:ariketa 12\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 12\\Ariketa 12\\Ariketa 12\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ariketa 12\\MainWindow.xaml",
+              "ToolTip": "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 12\\Ariketa 12\\Ariketa 12\\MainWindow.xaml",
+              "RelativeToolTip": "Ariketa 12\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-03T08:33:50.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 12\\Ariketa 12\\Ariketa 12\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ariketa 12\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Interfaze garapena\\Interfaze-garapena\\3.- ARIKETA\\Ariketa 12\\Ariketa 12\\Ariketa 12\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ariketa 12\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:33:50.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
