@@ -1,0 +1,21 @@
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13_MarkupCompile.cache
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13_MarkupCompile.lref
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\bin\Debug\net8.0-windows\Ariketa 13.exe
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\bin\Debug\net8.0-windows\Ariketa 13.deps.json
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\bin\Debug\net8.0-windows\Ariketa 13.runtimeconfig.json
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\bin\Debug\net8.0-windows\Ariketa 13.dll
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\bin\Debug\net8.0-windows\Ariketa 13.pdb
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.g.resources
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.sourcelink.json
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.dll
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\refint\Ariketa 13.dll
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.pdb
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\Ariketa 13.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\IntefazeGarapena\Interfaze-garapena\3.- ARIKETA\Ariketa 13\Ariketa 13\Ariketa 13\obj\Debug\net8.0-windows\ref\Ariketa 13.dll
